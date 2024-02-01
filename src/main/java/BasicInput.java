@@ -19,6 +19,6 @@ public class BasicInput {
         System.out.println(userString + " " + userChar + " " + userDouble + " " + userInt);
         // TODO (3): Cast the double to an integer, and output that integer
         int newInt = (int) userDouble;
-        System.out.println(userDouble + " cast to an integer is: " + newInt );
+        System.out.println(userDouble + " cast to an integer is " + newInt );
     }
 }
